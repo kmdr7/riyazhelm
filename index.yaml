@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mavenwebapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-07-23T05:51:01.666252835Z"
+    description: A Helm chart for Kubernetes
+    digest: c1c15f92b422070ce53ae14b3e9d103f5aed5a537213684b8fafc118f377e552
+    name: mavenwebapp
+    type: application
+    urls:
+    - https://kmdr7.github.io/riyazhelm/mavenwebapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-07-23T05:51:01.663881982Z"
